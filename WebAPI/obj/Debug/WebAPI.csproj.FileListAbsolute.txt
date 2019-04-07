@@ -1,4 +1,3 @@
-E:\R & D projects\Web API\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
 E:\R & D projects\Web API\WebAPI\WebAPI\bin\WebAPI.dll.config
 E:\R & D projects\Web API\WebAPI\WebAPI\bin\WebAPI.dll
 E:\R & D projects\Web API\WebAPI\WebAPI\bin\WebAPI.pdb
@@ -28,5 +27,6 @@ E:\R & D projects\Web API\WebAPI\WebAPI\bin\System.Web.WebPages.xml
 E:\R & D projects\Web API\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
 E:\R & D projects\Web API\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
 E:\R & D projects\Web API\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+E:\R & D projects\Web API\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
 E:\R & D projects\Web API\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 E:\R & D projects\Web API\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
